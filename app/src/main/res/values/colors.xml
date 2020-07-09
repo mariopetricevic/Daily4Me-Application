@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2D2F4B</color>
+    <color name="colorPrimaryDark">#1E2034</color>
+    <color name="colorAccent">#fff</color>
+    <color name="plava">#00008b</color>
+    <color name="og">#FFFF</color>
+    <color name="pozadina">#dcdcdc</color>
+    <color name="pozadina2">#BDC3C7</color>
+</resources>
